@@ -1,1 +1,5 @@
 .idea/
+.gitignore /Exercises/.idea/
+.gitignore /php-baisic/arithmetic-operations/.idea/
+.gitignore /php-baisic/arrays/.idea/
+.gitignore /php-baisic/flow-of-control/.idea/
